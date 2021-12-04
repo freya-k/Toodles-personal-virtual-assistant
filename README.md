@@ -1,13 +1,13 @@
 # personal-virtual-assistant
 This virtual assistant is built for desktops using Python to make your experience working on a desktop better. 
 It can perform many tasks, like -
-    Automatically opening Google
-    Providing summaries on any topic from Wikipedia
-    Opening YouTube
-    Telling you the time
-    Opening Gmail and sending emails
-    Performing any web search
-    Telling any jokes
+    Automatically opening Google,
+    Providing summaries on any topic from Wikipedia,
+    Opening YouTube,
+    Telling you the time,
+    Opening Gmail and sending emails,
+    Performing any web search,
+    Telling any jokes and 
     Making and keeping track of notes
     
 Theses are screenshots of the application:
